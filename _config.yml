@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: DonSseuJa # the main title
 
-tagline: Shopping & Shopping # it will display as the sub-title
+tagline: Shopping & Health # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
