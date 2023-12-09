@@ -4,3 +4,18 @@
 @import 'main';
 
 /* append your custom style below */
+
+/* 본문 이미지에 음영 효과 적용하기 */
+
+
+img:hover {
+	transform: scale(1.03);
+	box-shadow: 0.2em 0.15em 0.3em #999;
+	transition: all 0.1s linear;
+}
+
+button:hover {
+	transform: scale(1.03);
+	box-shadow: 0.2em 0.15em 0.3em #999;
+	transition: all 0.1s linear;
+}
