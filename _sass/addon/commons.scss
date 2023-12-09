@@ -698,13 +698,13 @@ $btn-mb: 0.5rem;
   background: var(--sidebar-bg);
   */
   /*
-  아래 3줄 추가
-  이미지는 assets/img/ 디렉토리에 넣어 주세요. 
+  위의 한줄을 아래 4줄로 변경함. 이미지는 assets/img/ 디렉토리에 넣었음. 
   */
 
   background: url('/assets/img/Cover.jpg');
   background-size: 100% 100%;
   background-position: center;
+  opacity: 0.7;
 
   border-right: 1px solid var(--sidebar-border-color);
 
