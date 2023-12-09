@@ -29,7 +29,19 @@ html {
 }
 
 body {
+  /*
   background: var(--main-bg);
+  */
+
+  /*
+  아래 3줄 추가
+  이미지는 assets/img/ 디렉토리에 넣어 주세요. 
+  */
+
+  background: url('/assets/img/Cover.jpg');
+  background-size: 100% 100%;
+  background-position: center;
+  
   padding: env(safe-area-inset-top) env(safe-area-inset-right)
     env(safe-area-inset-bottom) env(safe-area-inset-left);
   color: var(--text-color);
